@@ -1,0 +1,2 @@
+# ece651-project-snaptext
+A powerful image search and perceiving engine that can help to understand what it detects and offers an actions basing on the results. The concept of reverse image search will be untilised, where unique digital signatures are created for each given image and then compared to other indexed images to find the close match. Optical Character Recognition (OCR), Real-time Content Analysis, Translation, Documentaion, Contact Management are some of the follow-up actions provided by the engine depending on the image's result.
